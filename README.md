@@ -1,4 +1,5 @@
 # MyRepo
-
+# Formation Usine Logicielle
 ## Agile
-##TP
+## GIT
+## Maven
